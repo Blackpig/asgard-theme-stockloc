@@ -1,0 +1,6 @@
+{
+  "srcDir": "Themes/Stockloc",
+  "assetsDir": "resources/",
+  "cssOutput": "assets/css/",
+  "jsOutput": "assets/js/"
+}
